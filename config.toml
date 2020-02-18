@@ -44,7 +44,7 @@ title = "Interface Zero"
 
     [languages.de.params.logo]
       logoText = "Interface Zero"
-      logoHomeLink = "/"
+      logoHomeLink = "/ifz/"
 
     [languages.de.menu]
       [[languages.de.menu.main]]
