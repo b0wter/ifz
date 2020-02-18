@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hintergrund on Interface Zero</title>
+    <link>/tags/hintergrund/</link>
+    <description>Recent content in Hintergrund on Interface Zero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 18 Feb 2020 07:12:22 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hintergrund/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Übersicht - wie sieht die Welt aus?</title>
+      <link>/posts/uebersicht/</link>
+      <pubDate>Tue, 18 Feb 2020 07:12:22 +0000</pubDate>
+      
+      <guid>/posts/uebersicht/</guid>
+      <description>Übersicht Es gibt nur noch reich und arm. Beides in Extremform.
+Städte Das Leben findet fast ausschließlich in den Städten statt. Auf dem Land wird zwar die Nahrung produziert, dies geschieht aber fast vollständig automatisch. Jobs gibt es auf dem Land kaum. Dörfer gibt es de facto nicht mehr, sie sind alle ausgestorben. Die Städte sind riesige Moloche geworden, mit riesigen Bauten. Gerade Metropolen sind vertikal gewachsen, mit den Reichen auf den obersten Etagen.</description>
+    </item>
+    
+  </channel>
+</rss>

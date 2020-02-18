@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regeln on Interface Zero</title>
+    <link>/tags/regeln/</link>
+    <description>Recent content in Regeln on Interface Zero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 18 Feb 2020 07:12:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/regeln/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regelanpassungen und Erratas</title>
+      <link>/posts/regeln/</link>
+      <pubDate>Tue, 18 Feb 2020 07:12:33 +0000</pubDate>
+      
+      <guid>/posts/regeln/</guid>
+      <description>Regelerweiterung/Erläuterung Abweichungen vom Standardregelwerk  Cyborgs sind keine Rasse für Spieler Wenn ein Spieler die Rennen-Aktion im Kampf verwendet bekommt er automatisch +2 Deckung.  Verfügbarkeit von Equipment  Als Schusswaffen sind nur Pistolen legal zu erwerbe. Andere Waffen kann man sich nur über Verbindung auf dem Schwarzmarkt besorgen, oder bekommt sie gestellt. Drohnen mit Bewaffnung werden im öffentlichen Raum nicht toleriert. Bewaffnete Drohnen kann man nicht einfach kaufen, sie können nur auf dem Schwarzmarkt bezogen werden.</description>
+    </item>
+    
+  </channel>
+</rss>
