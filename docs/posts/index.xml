@@ -1,122 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Interface Zero</title>
-        <link>/posts/</link>
-        <description>Recent content in Posts on Interface Zero</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>de-de</language>
-        <lastBuildDate>Tue, 18 Feb 2020 07:12:33 +0000</lastBuildDate>
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Regelanpassungen und Erratas</title>
-            <link>/posts/regeln/</link>
-            <pubDate>Tue, 18 Feb 2020 07:12:33 +0000</pubDate>
-            
-            <guid>/posts/regeln/</guid>
-            <description>Regelerweiterung/Erläuterung Abweichungen vom Standardregelwerk  Cyborgs sind keine Rasse für Spieler Wenn ein Spieler die Rennen-Aktion im Kampf verwendet bekommt er automatisch +2 Deckung.  Verfügbarkeit von Equipment  Als Schusswaffen sind nur Pistolen legal zu erwerbe. Andere Waffen kann man sich nur über Verbindung auf dem Schwarzmarkt besorgen, oder bekommt sie gestellt. Drohnen mit Bewaffnung werden im öffentlichen Raum nicht toleriert. Bewaffnete Drohnen kann man nicht einfach kaufen, sie können nur auf dem Schwarzmarkt bezogen werden.</description>
-            <content type="html"><![CDATA[<h1 id="regelerweiterungerläuterung">Regelerweiterung/Erläuterung</h1>
-<h2 id="abweichungen-vom-standardregelwerk">Abweichungen vom Standardregelwerk</h2>
-<ul>
-<li>Cyborgs sind keine Rasse für Spieler</li>
-<li>Wenn ein Spieler die Rennen-Aktion im Kampf verwendet bekommt er automatisch +2 Deckung.</li>
-</ul>
-<h2 id="verfügbarkeit-von-equipment">Verfügbarkeit von Equipment</h2>
-<ul>
-<li>Als Schusswaffen sind nur Pistolen legal zu erwerbe. Andere Waffen kann man sich nur über Verbindung auf dem Schwarzmarkt besorgen, oder bekommt sie gestellt.</li>
-<li>Drohnen mit Bewaffnung werden im öffentlichen Raum nicht toleriert.</li>
-<li>Bewaffnete Drohnen kann man nicht einfach kaufen, sie können nur auf dem Schwarzmarkt bezogen werden. Es ist aber möglich die Drohnen ohne Waffen zu kaufen. Der Preis ist dann <code>$DROHNE - $WAFFE</code>. Für die Reconnaissance Drone (welche standardmäßig mit Medium MG kommt) ist der Preis: <code>20.000 - 6.500 = 13500</code>.</li>
-<li>Schwazmarktpreise sind 20x der reguläre Preis.</li>
-<li>Granaten sind dem Militär vorbehalten (außer Rauch)</li>
-<li>Als Rüstung bekommt man nur Standardskleidung mit Panzerung (Hoodies, Jacken, Mäntel, &hellip;), keine Panterung für Paramilitärs, oder Riot Police.</li>
-<li>An Modifikationen ist nur <em>Streetware</em> zu bekommen.</li>
-</ul>
-<h2 id="errata">Errata</h2>
-<ul>
-<li>TAP und IDS werden unabhängig voneinander aufgerüstet.</li>
-<li>Alle Spieler starten mit IDS1 und TAP1.</li>
-</ul>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Übersicht - wie sieht die Welt aus?</title>
-            <link>/posts/uebersicht/</link>
-            <pubDate>Tue, 18 Feb 2020 07:12:22 +0000</pubDate>
-            
-            <guid>/posts/uebersicht/</guid>
-            <description>Übersicht Es gibt nur noch reich und arm. Beides in Extremform.
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>/ifz/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2020 07:12:33 +0000</lastBuildDate>
+    
+	<atom:link href="/ifz/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regelanpassungen und Erratas</title>
+      <link>/ifz/posts/regeln/</link>
+      <pubDate>Tue, 18 Feb 2020 07:12:33 +0000</pubDate>
+      
+      <guid>/ifz/posts/regeln/</guid>
+      <description>Regelerweiterung/Erläuterung Abweichungen vom Standardregelwerk  Cyborgs sind keine Rasse für Spieler Wenn ein Spieler die Rennen-Aktion im Kampf verwendet bekommt er automatisch +2 Deckung.  Verfügbarkeit von Equipment  Als Schusswaffen sind nur Pistolen legal zu erwerbe. Andere Waffen kann man sich nur über Verbindung auf dem Schwarzmarkt besorgen, oder bekommt sie gestellt. Drohnen mit Bewaffnung werden im öffentlichen Raum nicht toleriert. Bewaffnete Drohnen kann man nicht einfach kaufen, sie können nur auf dem Schwarzmarkt bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Übersicht - wie sieht die Welt aus?</title>
+      <link>/ifz/posts/uebersicht/</link>
+      <pubDate>Tue, 18 Feb 2020 07:12:22 +0000</pubDate>
+      
+      <guid>/ifz/posts/uebersicht/</guid>
+      <description>Übersicht Es gibt nur noch reich und arm. Beides in Extremform.
 Städte Das Leben findet fast ausschließlich in den Städten statt. Auf dem Land wird zwar die Nahrung produziert, dies geschieht aber fast vollständig automatisch. Jobs gibt es auf dem Land kaum. Dörfer gibt es de facto nicht mehr, sie sind alle ausgestorben. Die Städte sind riesige Moloche geworden, mit riesigen Bauten. Gerade Metropolen sind vertikal gewachsen, mit den Reichen auf den obersten Etagen.</description>
-            <content type="html"><![CDATA[<h1 id="übersicht">Übersicht</h1>
-<p>Es gibt nur noch reich und arm. Beides in Extremform.</p>
-<h2 id="städte">Städte</h2>
-<p>Das Leben findet fast ausschließlich in den Städten statt. Auf dem Land wird zwar die Nahrung produziert, dies geschieht aber fast vollständig automatisch. Jobs gibt es auf dem Land kaum. Dörfer gibt es de facto nicht mehr, sie sind alle ausgestorben.
-Die Städte sind riesige Moloche geworden, mit riesigen Bauten. Gerade Metropolen sind vertikal gewachsen, mit den Reichen auf den obersten Etagen. Vielerorts sind diese abgesperrt und man benötigt besondere Ausweise, wenn man sie betreten will. Der Transfer zwischen den verschiedenen Wolkenkratzern erfolgt über Lufttaxen.</p>
-<h2 id="medizinische-versorgung">Medizinische Versorgung</h2>
-<p>Schlecht, man wartet lange. Es gibt staatliche Medi-Plexes, aber die Wartezeiten sind so lang, wie der Service schlecht.
-Muss es schnell gehen gibt es Streetdocs, diese kosten aber deutlich mehr und man muss sie kennen. Sie sind nicht die richtige Anlaufstelle für längere medizinische Betreuung, aber Meister darin jemanden wieder zusammenzuflicken.</p>
-<h2 id="nahrung">Nahrung</h2>
-<p>Das Essen ist kaum mehr als Abfall, quasi alle Leute beziehen ihre Mahlzeiten von sogenannten INSTAfood Joints (McCafe, FAT Sally’s Pancake House, Lou‘s Almost Real Ribs and Chicken, King Krill, &hellip;
-Das Essen ist voller Zusatzstoffe und schmeckt süchtigmachend gut, ist aber weniger gesund als äße man vom Boden des Recyclingcenters.
-Alternativ kann man zu einem <em>Malmart</em> gehen und dort Nutripacks,  Klonfleisch, Hyrdoponikgemüse, oder Instantfood kaufen.</p>
-<h2 id="staastsgewalt">Staastsgewalt</h2>
-<p>Sehr unterschiedlich ausgeprägt, je nach Kontinent und Land. In den meisten Ländern sind die Regierungen deutlich schwächer als sie es heutzutage sind. Viele Dienstleistung, welche vorher die Regierung erbracht hat werden heute von Corps geleistet (z.B. Polizei). Die Corps haben das System ausgehöhlt und etwas geschaffen, dass die Massen an armen Menschen entweder gleichgültig sein läßt, oder sich (organisiert in Gangs) gegenseitig umbringen läßt. So können die Corps immer auf andere schimpfen und gleichzeitig dafür sorgen, dass sich nie etwas ändert.</p>
-<h3 id="geheimdienste">Geheimdienste</h3>
-<p>Sind noch in staatlicher Gewalt. Der reguläre Bewohner der Welt hat keine Ahnung was genau die Dienste machen und über welche Möglichkeiten sie verfügen.</p>
-<h3 id="polizei">Polizei</h3>
-<p>In den meisten Städten gibt es keine staatliche Polizeibehörde mehr. Stattdessen wird die Dienstleistung durch Corps erbracht.
-Diese kämpfen untereinander um die Aufträge und bringen auch Zivilisten um, um zu zeigen, dass eine andere Corp keine Sicherheit bieten kann.
-Bountysysteme sind auch eine häufig genutzte Methode.
-Sich mit der Polizei anzulegen kann tödlich sein, da es kaum kontrollierende Instanzen gibt und die Corporations wenig Spaß verstehen.
-Einige Polizisten lassen sich bei kleineren Vergehen durchaus bestechen. Bei Vergehen von denen andere erfahren könnten (Corps, Regierung, &hellip;) lassen sich die Cops nicht mehr bestechen, da sie damit rechnen müssen von ihrer Crop entlassen zu werden (im günstigsten Fall).</p>
-<h3 id="gericht">Gericht</h3>
-<p>Vor Gericht verliert man meistens, dies liegt hauptsächlich daran, dass die Polizisten schon im Einsatz durch KI unterstützt werden, die ihnen genau sagte ob sie sich gerade korrekt verhalten, oder nicht. Das macht das Verwischen der eigenen Spuren wesentlich einfacher. Sollten sich die Spuren nicht so einfach verwischen lassen kann man Glück haben und die Cops lassen einen laufen. Aber man begegnet sich ja immer zwei mal &hellip;
-Häufig ist es möglich vor Gericht einen Deal auszuhandeln, aber Gefängnis gehört meistens dazu.</p>
-<h3 id="kopfgeldjäger">Kopfgeldjäger</h3>
-<p>Der Staat räumt Kopfgeldjägern weiträumige Rechte ein wenn es darum geht Entflohene (sei es aus Kaution, oder aus dem Gefängnis) wieder einzufangen.</p>
-<h3 id="gefängnis">Gefängnis</h3>
-<p>Wenn ein Spieler im Gefängnis steckt wird es Zeit für einen neuen Charakter 😬</p>
-<h2 id="rassen">Rassen</h2>
-<p>Durch das Punktesystem von Savage Worlds sind alle Rassen ausbalanciert!</p>
-<h3 id="human-10">Human 1.0</h3>
-<p>Normaler Mensch. Als Standard überall akzeptiert.</p>
-<h3 id="human-20">Human 2.0</h3>
-<p>Genetisch modifizierter Mensch, akzeptierter Teil der Gesellschaft. Bekleiden häufig gute Posten, aufgrund reicher Eltern und verbesserter Gene.</p>
-<h3 id="androidbiodroid">Android/Biodroid</h3>
-<p>Werden als Besitz angesehen. <em>Freie</em> Droids werden gejagt und ausgeschaltet.</p>
-<h3 id="cyborgs-keine-pcs">Cyborgs (keine PCs)</h3>
-<p>Werden mit Argwohn betrachtet, da sie kaum noch menschlich sind.</p>
-<h3 id="hybride">Hybride</h3>
-<p>Werden von weiten Teilen der Gesellschaft als schmutzig und barbarisch angesehen. Für eine neue Jugendbewegung ist es jedoch Schönheitsideal. Gelangweilte Kinder reicher Eltern splicen gerne als Freizeitvergnügen.</p>
-<h3 id="psioniker-zeeks">Psioniker (“Zeeks”)</h3>
-<p>Nach der brutalen Angriffen einiger weniger Psioniker, die viele Menschenleben gefordert haben werde sie fast überall mindestens mit großem Misstrauen gesehen. Viele Staaten haben Gesetze erlassen um Psioniker zu registrieren und zu überwachen(*). Ein Leben ist oft nur innerhalb eigener Communities möglich, um hier Opfer eines Verbrechens aus Hass zu werden.</p>
-<p>(*) bis hin zur Installation von Überwachungssoftware auf dem TAP</p>
-<h2 id="umwelt">Umwelt</h2>
-<p>Weite Teile der Ökosysteme sind zerstört worden. Vor allem durch <em>The Death</em> (Spätfolgen und nukleare Waffen). Wissenschaftler und Staaten versuchen mit genetisch modifizierter Flora und Faune dies wiederaufzubauen. Weite Teile der Landschaft sind jedoch durch globale Erwärmung und das Verschwinden der Ozonschicht zu wüstenähnlichen Zonen verkommen. Dort Leben einige wenige sture Menschen und kämpfen täglich ums Überleben. Behördliche Intervention gibt es in diesen Gebieten nicht.
-Unvorhergesehene Mutationen haben dafür gesorgt, dass es etliche <em>Bio-Horrors</em> in freier Natur gibt.
-Auch Forschungssubjekte des Militärs finden sich in der Natur. Eine besonders  beliebte Kreuzung ist Insekt + Katze für natürlich gepanzerte „Schocktruppen“.</p>
-<h2 id="virtuelle-welt">Virtuelle Welt</h2>
-<p>Quasi alles (auch Schlüsselanhänger, Fahrzeugdashboards, Schlösser, &hellip;) haben virtuelle Gegenstücke und lassen sich so bedienen. Fast alles spielt sich heutzutage mindestens zusätzlich in der virtuellen Welt auch noch ab.</p>
-<h2 id="fortbewegung">Fortbewegung</h2>
-<h3 id="eigenes-fahrzeug">Eigenes Fahrzeug</h3>
-<p>Die Straßen sind häufig verstopft, aber der Transport ist günstig.</p>
-<h3 id="öpnv">ÖPNV</h3>
-<p>Existiert in größeren Städten und innerhalb wohlhabender gated Communities. Der Dienst relativ  zuverlässig, aber nicht kriminalitätsfrei. Es gibt verschiedene Arten von Bussen und Bahnen, aber keine Luftlinien.</p>
-<h3 id="flugmittel">Flugmittel</h3>
-<p>Das bevorzugte Transportmittel der reichen Bevölkerung. Schnell, zuverlässig, privat und sehr teuer.</p>
-<h1 id="cleaning-crews">Cleaning Crews</h1>
-<p>Diese Crews sind dafür zuständig gewisse Vorfälle zu bereinigen, oder zu vertuschen. Das Spektrum reicht dabei von der Beseitigung eines Biohorrors, über die Untersuchung verdächtiger Vorgänge bis hin zum Schweigen bringen eines lästiger Zeugen.
-Es gibt sie in allen möglichen Varianten. Von Glücksrittern, über Celebrities* und eiskalten Söldnern ist alles möglich. In den meisten Fällen handelt es sich um Leute die nichts mehr zu verlieren haben. Nur die wenigsten kommen jemals wieder aus den Fängen der Corp, wartet doch meist ein Hit Squad auf sie, dass einen _Mitwisser_ beseitigt.
-Allen gemein ist, dass sie häufig außerhalb des Gesetz agieren. Corps sind im Grunde verpflichtet Vorfälle zu melden, die geschieht aber nur in seltenen Fällen. Zu groß ist die Sorge vor einem Imageschaden, oder davor, dass ein Konkurrent die Schwäche ausnutzt.</p>
-<p>(*) Celebrities machen keine klassische Cleanerdienste. Es wird künstlich ein „Vorfall“ erzeugt und multimedial ausgeschlachtet.</p>
-<h2 id="die-spieler-als-cleaning-crew">Die Spieler als Cleaning Crew</h2>
-<p>Die Spieler bilden eine kleine Cleaning Crew für eine der Corporations. Sie sind alle auf ihren Job angewiesen und die Corp weiß das. Es wird erwartet, dass die Spieler keine Fragen stellen und die Anweisungen befolgen, sonst werden sie ausgetauscht.</p>
-<p><strong>Dies stellt nur den Startzustand da, von hier aus kann sich das natürlich in alle möglichen Richtungen entwickeln!</strong></p>
-<h1 id="sonnensystem">Sonnensystem</h1>
-<p>Das Sonnensystem ist aktuell in den Anfangszügen der Kolonisierung. Reisezeiten innerhalb des Sonnensystems dauern dank einer neuen Antriebsart nur noch Wochen, nicht mehr Monate.  Mehr dazu in [[Sonnensystem]].</p>
-<p>#ifz #setting</p>
-]]></content>
-        </item>
-        
-    </channel>
+    </item>
+    
+  </channel>
 </rss>

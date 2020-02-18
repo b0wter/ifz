@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/ifz/posts/</loc>
     <lastmod>2020-02-18T07:12:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/ifz/posts/regeln/</loc>
     <lastmod>2020-02-18T07:12:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/regeln/</loc>
+    <loc>/ifz/tags/regeln/</loc>
     <lastmod>2020-02-18T07:12:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regeln/</loc>
+    <loc>/ifz/tags/</loc>
     <lastmod>2020-02-18T07:12:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/ifz/</loc>
     <lastmod>2020-02-18T07:12:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hintergrund/</loc>
+    <loc>/ifz/tags/hintergrund/</loc>
     <lastmod>2020-02-18T07:12:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/uebersicht/</loc>
+    <loc>/ifz/posts/uebersicht/</loc>
     <lastmod>2020-02-18T07:12:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/ifz/categories/</loc>
   </url>
   
 </urlset>
