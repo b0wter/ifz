@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Terminal</title>
+    <title>Categories on Interface Zero</title>
     <link>/ifz/categories/</link>
-    <description>Recent content in Categories on Terminal</description>
+    <description>Recent content in Categories on Interface Zero</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de</language>
     
 	<atom:link href="/ifz/categories/index.xml" rel="self" type="application/rss+xml" />
     

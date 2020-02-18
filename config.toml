@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/ifz/"
 languageCode = "de"
 defaultContentLanguage="de"
 theme = "terminal"

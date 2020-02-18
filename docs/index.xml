@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Interface Zero</title>
     <link>/ifz/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Interface Zero</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de</language>
     <lastBuildDate>Tue, 18 Feb 2020 07:12:33 +0000</lastBuildDate>
     
 	<atom:link href="/ifz/index.xml" rel="self" type="application/rss+xml" />
@@ -28,6 +28,16 @@
       <guid>/ifz/posts/uebersicht/</guid>
       <description>Übersicht Es gibt nur noch reich und arm. Beides in Extremform.
 Städte Das Leben findet fast ausschließlich in den Städten statt. Auf dem Land wird zwar die Nahrung produziert, dies geschieht aber fast vollständig automatisch. Jobs gibt es auf dem Land kaum. Dörfer gibt es de facto nicht mehr, sie sind alle ausgestorben. Die Städte sind riesige Moloche geworden, mit riesigen Bauten. Gerade Metropolen sind vertikal gewachsen, mit den Reichen auf den obersten Etagen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/ifz/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ifz/showcase/</guid>
+      <description>Am wichtigsten sind die beiden Artikel:
+ Regelanpasungen/Änderungen/Erratas Übersicht über die Welt  </description>
     </item>
     
   </channel>
