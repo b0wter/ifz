@@ -1,7 +1,9 @@
-baseurl = "/ifz/"
-languageCode = "en-us"
+baseurl = "/"
+languageCode = "de"
+defaultContentLanguage="de"
 theme = "terminal"
 paginate = 5
+title = "Interface Zero"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -11,7 +13,7 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -20,7 +22,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -30,27 +32,23 @@ paginate = 5
   # oneHeadingSize = false
 
 [languages]
-  [languages.en]
-    languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+  [languages.de]
+    languageName = "Deutsch"
+    title = "Interface Zero"
+    subtitle = "Sammlung an Regeländerungen, Anpassungen und Hintergrundinfos"
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+    menuMore = "Mehr anzeigen"
+    readMore = "Mehr lesen"
+    readOtherPosts = "Andere Artikel lesen"
 
-    [languages.en.params.logo]
-      logoText = "Terminal"
+    [languages.de.params.logo]
+      logoText = "Interface Zero"
       logoHomeLink = "/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
+    [languages.de.menu]
+      [[languages.de.menu.main]]
         identifier = "showcase"
-        name = "Showcase"
+        name = "Wichtige Artikel"
         url = "/showcase"
 
