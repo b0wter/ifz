@@ -12,6 +12,7 @@ tags:
 ## Abweichungen vom Standardregelwerk
 * Cyborgs sind keine Rasse für Spieler
 * Wenn ein Spieler die Rennen-Aktion im Kampf verwendet bekommt er automatisch +2 Deckung. 
+* Das Stargeld der Spieler beträgt 10.000 Cryptos, wenn man extra Geld "kauft" bringt dies 15.000 Cryptos.
 
 ## Verfügbarkeit von Equipment
 * Als Schusswaffen sind nur Pistolen legal zu erwerbe. Andere Waffen kann man sich nur über Verbindung auf dem Schwarzmarkt besorgen, oder bekommt sie gestellt. 
